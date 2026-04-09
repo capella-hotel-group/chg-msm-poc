@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p152536-e2003150.adobeaemcloud.com/bin/franklin.delivery/capella-hotel-group/chg-msm-poc/main"
-    type: "markup"
-    suffix: ".html"
