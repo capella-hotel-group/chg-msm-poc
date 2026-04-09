@@ -1,8 +1,0 @@
-{
-  "mappings": [
-    "/content/capella-msm-poc/:/"
-  ],
-  "includes": [
-    "/content/capella-msm-poc/"
-  ]
-}
